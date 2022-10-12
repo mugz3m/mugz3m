@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mugz3m
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Kotlin/Swift
+- 🌱 I’m currently learning Kotlin and Android
 - 💞️ I’m looking to cooperation in the field of mobile apps development, your help and tips
 - 📫 You can contact me by mugz3m.work@gmail.com
 
