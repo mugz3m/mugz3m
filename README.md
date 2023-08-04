@@ -1,5 +1,6 @@
 ##  👋  Hi, I’m Maxim Sergeev
-  - 👨‍💻 Software Engineer student at <a href="https://eng.miet.ru/" target="_blank">National Research University of Electronic Technology (MIET)</a>
+  - 👨‍💻 Software Engineer student at [National Research University of Electronic Technology (MIET)](https://eng.miet.ru/)
+  - 🛡️ Junior Android developer at [Aktiv Company](https://aktiv-company.com/)
   - 📱 Interested in mobile development
   - 👀 I’m looking to cooperation in the field of mobile apps development, your help and tips
   - 🌱 Currently learning Kotlin & Android development
@@ -23,9 +24,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugz3m&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugz3m&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-mugz3m/mugz3m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
