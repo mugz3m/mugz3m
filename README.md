@@ -1,9 +1,9 @@
 ##  👋  Hi, I’m Maxim Sergeev
   - 👨‍💻 Software Engineer student at [National Research University of Electronic Technology (MIET)](https://eng.miet.ru/)
-  - 🛡️ Junior Android developer at [Aktiv Company](https://aktiv-company.com/)
-  - 📱 Interested in mobile development
-  - 👀 I’m looking to cooperation in the field of mobile apps development, your help and tips
-  - 🌱 Currently learning Kotlin & Android development
+  - 🛡️ Android and Kotlin developer at [Aktiv Company](https://aktiv-company.com/)
+  - 📱 Interested in mobile and backend development
+  - 👀 I’m looking to cooperation in the field of mobile apps development
+  - 🌱 Currently learning Kotlin, Android and iOS development
 <br>
 
 ##  💻  Languages & Tools 
