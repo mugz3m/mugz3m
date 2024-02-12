@@ -3,13 +3,14 @@
   - 🛡️ Android and Kotlin developer at [Aktiv Company](https://aktiv-company.com/)
   - 📱 Interested in mobile and backend development
   - 👀 I’m looking to cooperation in the field of mobile apps development
-  - 🌱 Currently learning Kotlin, Android and iOS development
+  - 🌱 Currently learning Kotlin, Android and Flutter development
 <br>
 
 ##  💻  Languages & Tools 
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/68668504/138495244-e0ca199f-7e94-41b9-8a35-a69b6e253259.png" alt="kotlin" width="36" height="36"/></a>
   <a href="https://www.java.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/68668504/138495452-e01d5afa-1ab4-4a1e-996d-fed498b41f74.png" alt="java" width="36" height="36"/></a>
   <a href="https://developer.android.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/68668504/138495306-85509155-d879-4833-a42c-0adca4303fa5.png" alt="android" width="36" height="36"/></a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://github.com/mugz3m/mugz3m/assets/80107020/8c639e57-1370-43e8-96b3-f8c6d6bc1a71" alt="flutter" width="36" height="36"/></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/68668504/138495504-ab239a3a-663c-47b6-a068-bdb4e9cde7df.png" alt="git" width="36" height="36"/></a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/68668504/138495384-4231439d-9fb7-4f05-bc8f-789e68806706.png" alt="linux" width="36" height="36"/> </a>
 <br><br>
