@@ -2,8 +2,8 @@
   - 👨‍💻 Software Engineer student at [National Research University of Electronic Technology (MIET)](https://eng.miet.ru/)
   - 🛡️ Android and Kotlin developer at [Aktiv Company](https://aktiv-company.com/)
   - 📱 Interested in mobile and backend development
-  - 👀 I’m looking to cooperation in the field of mobile apps development
-  - 🌱 Currently learning Kotlin, Android and Flutter development
+  - 👀 I’m looking for cooperation in the field of mobile application development
+  - 🌱 Currently studying Kotlin Multiplatform, Android and Flutter
 <br>
 
 ##  💻  Languages & Tools 
