@@ -3,7 +3,7 @@
   - 🛡️ Android and Kotlin developer at [Aktiv Company](https://aktiv-company.com/)
   - 📱 Interested in mobile and backend development
   - 👀 I’m looking for cooperation in the field of mobile application development
-  - 🌱 Currently studying Kotlin Multiplatform, Android and Flutter
+  - 🌱 Currently studying Android, Kotlin Multiplatform and Flutter
 <br>
 
 ##  💻  Languages & Tools 
